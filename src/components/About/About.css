@@ -1,0 +1,29 @@
+mark {
+    background-color: #f1d1cb !important;
+}
+
+
+.about-column { 
+    width: 40vw;
+    line-height: 1.4rem;
+    font-size: 1.1rem; 
+}
+
+.about-title { 
+    font-family: 'Syne', sans-serif;
+    font-size: 2rem; 
+    line-height: 3.1rem; 
+}
+.brand { 
+    font-family: 'Jost', sans-serif;
+    font-size: 2rem; 
+    line-height: 2.2rem; 
+}
+
+@media only screen and (max-width: 700px) {
+  .about-column { 
+    width: 100%; 
+    padding: 10px; 
+}
+
+}

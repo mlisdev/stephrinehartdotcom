@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Syne:wght@400;500;600&family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html, body { 
+  margin: 0; 
+}
+
+body { 
+  font-family: 'Syne', sans-serif;
+  color: #353547; 
+}
+
+a { 
+  color: #f6856e; 
+  text-decoration: none;
+  font-weight: bold; 
+}
+
+h2 { 
+  /* padding: 50px;  */
+  margin-left: 50px; 
+  font-family: "Jost";
+}
